@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E6D40D91-0A8E-40D9-B0AD-834A7B525BC0}|Default">
+  <MonoDevelop.Ide.ItemProperties.InterfaceDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CheckingAccount.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="BankAccount.cs" Line="13" Column="1" />
+      <File FileName="CheckingAccount.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterfaceDemo" expanded="True">
+            <Node name="InterfaceDemo" expanded="True">
+              <Node name="CheckingAccount.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
